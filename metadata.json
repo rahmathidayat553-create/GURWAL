@@ -1,0 +1,5 @@
+{
+  "name": "Gurwal v1",
+  "description": "Aplikasi manajemen data pendidikan berbasis React dan Supabase dengan fitur Dashboard Admin, CRUD Guru, Siswa, Kelas, dan Mapel.",
+  "requestFramePermissions": []
+}
